@@ -1,0 +1,12 @@
+interface:
+  display_name: Image Slide Generator
+  short_description: Create consistent presentation slides as generated images.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
